@@ -1,0 +1,11 @@
+name: LHSBab
+main: LHS\LHSBab
+version: 1.0.0
+author: LHS
+api: 3.0.0
+
+commands:
+  밥:
+    description: §f100§b§lC §r§7§o로배고픔을 채워드립니다. by LHS0122
+  고기:
+    description: §f64§b§lC §r§7§o로스테이크 64개를 지급해드립니다. by LHS0122
