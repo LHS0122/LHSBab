@@ -6,6 +6,6 @@ api: 3.0.0
 
 commands:
   밥:
-    description: §f100§b§lC §r§7§o로 배고픔을 채워드립니다. by LHS0122
+    description: §f100§b§l원 §r§7§o으로 배고픔을 채워드립니다. by LHS0122
   고기:
-    description: §f64§b§lC §r§7§o로 스테이크 64개를 지급해드립니다. by LHS0122
+    description: §f64§b§l원 §r§7§o으로 스테이크 64개를 지급해드립니다. by LHS0122
